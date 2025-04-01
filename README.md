@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyl5r
-- 🌱 I’m currently studying Computer Science as my major!!
+- 🌱 I’m currently studying Computer Science in college!!
 - 📫 How to reach me...TBD
 
 <!---
