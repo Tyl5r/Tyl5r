@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tyl5r
-- 👀 I’m interested in coding and software development (still in the "Hello World" phase )!!
-- 🌱 I’m currently learning anything and everything I can to prepare myself for college in the near future!
+- 🌱 I’m currently studying Computer Science as my major!!
 - 📫 How to reach me...TBD
 
 <!---
